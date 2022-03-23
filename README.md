@@ -63,8 +63,7 @@ All packages are build using `void-packages` with `build_options="clang vaapi pu
 
 ### Available builds
 
-- **`x86_64`**
-- **`x86_64-musl`**
+- i686
 
 ### Installing the binary package
 
