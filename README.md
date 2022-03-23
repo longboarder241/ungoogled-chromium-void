@@ -34,7 +34,6 @@ Ungoogled Chromium template and builds for Void Linux, based on the void-package
 
 Clone this repository or download the source archive from the [Releases](//github.com/DAINRA/ungoogled-chromium-void/releases) page.
 
-    # if it exists, remove the old void-packages/srcpkgs/ungoogled-chromium folder
     # copy the folder ungoogled-chromium-void/ungoogled-chromium to void-packages/srcpkgs/
     $ ./xbps-src pkg ungoogled-chromium
     $ xbps-install -vR hostdir/binpkgs ungoogled-chromium
