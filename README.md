@@ -14,7 +14,8 @@ Ungoogled Chromium template and builds for Void Linux, based on the void-package
     - [Available builds](#available-builds)
     - [Installing the binary package](#installing-the-binary-package)
 - [Credits](#credits)
-
+### Current Issues
+- As of now I can't seem to figure out why but the binary I compile has issues running on celron based cpus...If you can figure out why, please let me know and I'll update the binary with the proper flags.
 ## Building from source
 
 *If you haven't set up the void-packages repository consult this [page](//github.com/void-linux/void-packages/#readme) for more information. Relevant section:*
